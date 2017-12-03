@@ -12,7 +12,7 @@ You can get my resume [here](/resume.pdf)
 <div style="width:400px;height:150px;">
     <div class="github-card" data-github="humiaozuzu" data-theme="default"></div>
 </div>
-<script src="http://lab.lepture.com/github-cards/widget.js"></script>
+<script src="https://lab.lepture.com/github-cards/widget.js"></script>
 
 - Gtalk/Gmail: maplevalley8(at)gmail
 - Twitter: [@humiaozuzu](https://twitter.com/humiaozuzu)
