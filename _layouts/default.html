@@ -41,6 +41,12 @@
           {{ content }}
         </div>
         {% if is_post %}{% include signoff.html %}{% endif %}
+        {% if is_post and page.comments != 'false' %}
+          {% include disqus.html %}
+        {% endif %}
+        {% if is_post == nil and page.comments != 'false' %}
+          {% include disqus.html %}
+        {% endif %}
       </main>
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
