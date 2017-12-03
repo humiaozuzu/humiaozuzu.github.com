@@ -1,0 +1,13 @@
+---
+title: Categories
+---
+
+{% for cat in site.categories %}
+    <h3>{{ cat[0] }}</h3>
+    {% assign cate = cat[0] | downcase %}
+    {% for post in site.categories[cate] %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+{% endfor %}
