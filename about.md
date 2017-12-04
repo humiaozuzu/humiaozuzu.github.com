@@ -5,7 +5,7 @@ comments: true
 
 Maple, likes online game「Maple Story」, Apple fun, Python DevOps, also do some SA tasks.
 
-You can get my resume [here](/resume.pdf). I only accept work in Japan. Full-Time & Part-Time jobs are both accepted.
+You can get my resume [here](/resume.pdf). I only accept jobs in Japan. Full-Time & Part-Time jobs are both OK.
 
 #### Contact
 
