@@ -3,9 +3,9 @@ title: About
 comments: true
 ---
 
-Maple, likes online game「Maple Story」, Apple fun, Python DevOps, also do some SA tasks。
+Maple, likes online game「Maple Story」, Apple fun, Python DevOps, also do some SA tasks.
 
-You can get my resume [here](/resume.pdf)
+You can get my resume [here](/resume.pdf).
 
 #### Contact
 
