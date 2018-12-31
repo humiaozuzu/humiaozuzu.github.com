@@ -3,9 +3,9 @@ title: About
 comments: true
 ---
 
-Maple, likes online game「Maple Story」, Apple fun, Python DevOps, also do some SA tasks.
+Maple, likes online game「Maple Story」, Apple fun, Python/Golang Developer and SA
 
-You can get my resume [here](/resume.pdf). I only accept jobs in Japan. Full-Time & Part-Time jobs are both OK.
+You can get my resume [here](/resume.pdf). I work in Japan.
 
 #### Contact
 
@@ -15,4 +15,4 @@ You can get my resume [here](/resume.pdf). I only accept jobs in Japan. Full-Tim
 <script src="https://lab.lepture.com/github-cards/widget.js"></script>
 
 - Gtalk/Gmail: maplevalley8(at)gmail
-- Twitter: [@humiaozuzu](https://twitter.com/humiaozuzu)
+<!-- - Twitter: [@humiaozuzu](https://twitter.com/humiaozuzu) -->
