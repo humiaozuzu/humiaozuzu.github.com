@@ -1,6 +1,6 @@
 ---
 title: 繁忙的工作中，如何个人提升？
-category: Personal Management
+category: personal productivity system
 ---
 
 为什么提升？得到大家的认可、吸引异性、财务自由，或是实现梦想，上进的人心中都有一个的理由。

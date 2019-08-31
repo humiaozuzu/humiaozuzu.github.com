@@ -1,6 +1,6 @@
 ---
 title: "使用 iTunes 管理音乐"
-category: mac
+category: macOS
 ---
 
 获取音乐

@@ -1,6 +1,6 @@
 ---
 title: 个人密码管理
-category: personal knowledge management
+category: personal productivity system
 ---
 
 密码管理，对于大部分人来说可能就是简单的所有账户都使用一个密码，这种做法的危险性不言而喻。为什么我们需要管理好自己的密码呢？

@@ -1,6 +1,6 @@
 ---
 title: 我的阅读技术栈
-category: mind hacks
+category: personal productivity system
 ---
 
 ### 阅读流程

@@ -1,6 +1,6 @@
 ---
 title: 国内创业公司常用的服务
-category: startup
+category: indie hacker
 ---
 
 ## 基础服务

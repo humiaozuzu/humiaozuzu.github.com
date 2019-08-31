@@ -1,6 +1,6 @@
 ---
-title: "Mac 下常用软件推荐"
-category: Mac
+title: macOS 下常用软件推荐
+category: macOS
 ---
 
 1. 2012-09-25 添加了新软件

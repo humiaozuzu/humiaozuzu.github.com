@@ -1,6 +1,6 @@
 ---
 title: 我如何做断舍离
-category:
+category: personal productivity system
 ---
 
 ![less](/assets/images/less-is-more.png)

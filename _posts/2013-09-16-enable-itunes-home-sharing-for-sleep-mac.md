@@ -1,6 +1,6 @@
 ---
 title: OpenWrt 下让睡眠的 Mac 支持 iTunes 家庭共享功能
-category: Mac
+category: macOS
 ---
 
 自己一直很喜欢用 iTunes 的家庭共享功能，可以在其他 iOS 设备中播放 Mac 中的音乐库。但是使用的过程中遇到了一个问题，当你的 Mac 进入睡眠状态时，家庭共享功能就失效了。查阅了 Apple 的官方帮助支持后，找到了解决方案，只需要简单 2 步设置。

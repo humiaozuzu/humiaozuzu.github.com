@@ -1,6 +1,6 @@
 ---
 title: 「高效能人士的七个习惯」读书笔记之『产出/产能平衡原则』
-category: Personal Management
+category: personal productivity system
 ---
 
 「产出/产能平衡原则」、「推迟满足感」和「做重要不紧急的事情」三者本质是一样的。

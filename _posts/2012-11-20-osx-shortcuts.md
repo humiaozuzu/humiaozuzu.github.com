@@ -1,9 +1,9 @@
 ---
-title: "OS X 下常用快捷键"
-category: Mac
+title: "macOS 下常用快捷键"
+category: macOS
 ---
 
-OS X 的快捷键是 Apple 一致性体验的经典例子。在 Linux 和 Windows 下，我都没有发现谁能做到快捷键如此统一与易用。
+macOS 的快捷键是 Apple 一致性体验的经典例子。在 Linux 和 Windows 下，我都没有发现谁能做到快捷键如此统一与易用。
 
 窗口操作
 -------
@@ -28,7 +28,7 @@ OS X 的快捷键是 Apple 一致性体验的经典例子。在 Linux 和 Window
 行编辑
 -----
 
-OS X 下所有输入区都支持 readline 的快捷键，熟悉后可以大大提升效率。
+macOS 下所有输入区都支持 readline 的快捷键，熟悉后可以大大提升效率。
 
 - `Ctrl` + `A` -> 跳到行首
 - `Ctrl` + `E` -> 跳到行尾
@@ -49,5 +49,5 @@ App功能相关
 
 另一种方法是按下`Cmd`+`Shift`+`/`在所有程序都有的Search中全局搜索菜单。
 
-![OS X Search Menu](/assets/images/osx-search-menu.jpg)
+![macOS Search Menu](/assets/images/osx-search-menu.jpg)
 
