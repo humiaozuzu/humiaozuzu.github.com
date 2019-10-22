@@ -9,7 +9,7 @@ category: macos
 
 既然非 macOS 不可，剩下的选择也就不多了。
 
-### 1. 2016 年后的 MacBook
+### 1. 2016 年后的 MacBook Pro
 
 新款 MacBook 问题多到无法正常使用，直接放弃
 
@@ -20,14 +20,14 @@ category: macos
 - 鸡肋的 Touch Bar，导致开发者无法正常使用键盘
 - 没有了发光的 Logo，失去了灵魂
 
-### 2. Mac mini and iMac
+### 2. Mac mini and iMac (Pro)
 
 Mac mini 体积小，散热不好。因为没有独显，唯一的扩展方法就是 egpu 盒子，一个盒子花费要 2000 块，体积还不小。
 
 iMac 一体化的更不考虑了。
 
 
-### 3. MacBook 2015
+### 3. MacBook Pro 2015
 
 唯一一款正常的笔记本，性能到现在依然堪用，要求不高可以继续选择这款。途径是二手市场，价格 6-7K 左右可以收到在保或者状态比较新的。
 
@@ -41,10 +41,11 @@ iMac 一体化的更不考虑了。
 
 2019 年 HackinTosh 已经到达了完美状态
 
-- 成本只要 4/1 到 6/1 就可以组装一台性能怪兽
-- 自己组装一体式水冷带9700K无压力，再无噪音
+- 成本只要 1/4 到 1/6 就可以组装一台性能怪兽
+- 用最简单的一体式水冷带 9700K 无压力，再无噪音
 - 稳定性更好。你没有听错，因为一堆问题都是因为笔记本性能太差 ╮(╯▽╰)╭
-- 因为 Lilu 生态的驱动已经完美，EFI 中加载好**通用**驱动，已经可以无侵入系统文件启动(Vanilla Install)
+- 因为 Lilu 生态的驱动在 2019 已经完美，配置和安装过程非常简单，EFI 中加载好**通用**驱动，就可以无侵入系统文件安装启动了(Vanilla Install)
+- Catalina 已经原生支持了 RX 5700 XT
 - 可以在 Developer Beta 出来的第二天早上就跟着更新了（现在非常稳定大概率不会有问题，有也只会是小问题，国外论坛上都已贴好了解决方法）
 
 此外的一些建议和注意点
@@ -58,13 +59,13 @@ iMac 一体化的更不考虑了。
 1. 先去 tonymacx86 的 [Buyer's Guide](https://www.tonymacx86.com/buyersguide/building-a-customac-hackintosh-the-ultimate-buyers-guide/) 挑合适的硬件
 2. 去 tonymacx86/insanelymac 的经典 build 教程中找和自己主板一样的，学习安装的流程，蓝牙型号参考[这里](https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/)
 
-推荐下我选的[硬件(mini-ITX机箱)](https://pcpartpicker.com/list/fnM9Wb)以及我参考的[教程](https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/)（非常推荐看这篇，因为里面有很多额外的知识）
+推荐下我选的[硬件(mini-ITX机箱)](https://pcpartpicker.com/list/fnM9Wb)以及我参考的[教程](https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/)（非常推荐看这篇，因为是 Vanilla Install 而且有很多额外的知识）
 
 组好的机器 CPU 跑分在[Geekbench Mac](https://browser.geekbench.com/mac-benchmarks) 里面排第一，成本只要 6K+。
 
 ### 外接键盘和触控板
 
-我使用的是 Magic Trackpad 和 Macgic keyboard 的新款，为了接近原生 MacBook 的体验，我把 trackpad 放到了键盘的下面，这样会带来误触的问题，解决方法也很简单，开启 BetterTouchTool 的 「Mirror complete Magic Trackpad orientation for "upside-down" usage.」
+我使用的是 Magic Trackpad 和 Magic keyboard 的新款，为了接近原生 MacBook 的体验，我把 trackpad 放到了键盘的下面，这样会带来误触的问题，解决方法也很简单，开启 BetterTouchTool 的 「Mirror complete Magic Trackpad orientation for "upside-down" usage.」
 
 ![Magic](/assets/images/magic-up-down.jpg)
 
