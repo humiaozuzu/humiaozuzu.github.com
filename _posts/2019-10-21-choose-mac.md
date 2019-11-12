@@ -95,7 +95,7 @@ A: iMac Pro 2019 没有 T2 芯片，够你安全用 10 年了。
 - 除了主板、WI-FI/蓝牙模块不变，其他的按自己需求换到兼容硬件就好
 - 如果要换主板，不推荐选 ASRock 的
 - 显卡推荐尽量用蓝宝石的
-- 如果想要 Windows 装双系统用，推荐额外买一块 SATA3 SSD
+- 如果想要 Windows 装双系统用，推荐额外买一块 SATA3 860 EVO
 - SSD 不要选 970 EVO Plus 和 三星 PM981
 - 显示器请用 DP 接口
 
@@ -111,4 +111,4 @@ A: iMac Pro 2019 没有 T2 芯片，够你安全用 10 年了。
 
 ### 多设备数据同步问题
 
-目前只推荐 Dropbox 的 [Smart Sync](https://www.dropbox.com/smart-sync) 功能，一次性解决数据的备份和同步问题，丢掉所有的备份硬盘，关闭了 Time machine。
+目前只推荐 Dropbox 的 [Smart Sync](https://www.dropbox.com/smart-sync) 功能，一次性解决数据的备份和同步问题，丢掉所有的硬盘和 NAS，关闭 Time machine。
