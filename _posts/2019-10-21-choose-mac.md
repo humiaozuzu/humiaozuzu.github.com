@@ -9,6 +9,7 @@ category: macos
 
 既然非 macOS 不可，剩下的选择也就不多了。
 
+
 ### 1. 2016 年后的 MacBook Pro
 
 新款 MacBook Pro 问题多到无法正常使用，直接放弃
@@ -23,15 +24,19 @@ category: macos
 
 ### 2. Mac mini and iMac (Pro)
 
-Mac mini 体积小，散热不好。因为没有独显，唯一的扩展方法就是 eGPU 盒子，一个盒子花费要 2000 块，体积和 ITX 机箱一样大了。
+Mac mini 体积小，散热不好。因为没有独显，唯一的扩展方法就是 eGPU 盒子，一个盒子花费要 2000 起，体积还和 ITX 机箱一样大。
 
 iMac 一体化的更不考虑了。
 
-### 3. MacBook Pro 2015
+### 4. MacBook Pro 2015
 
-唯一一款正常的笔记本，性能到现在依然堪用，要求不高可以继续选择这款。途径是二手市场，价格 6-7K 左右可以收到在保或者状态比较新的。
+唯一一款正常的笔记本，性能到现在依然堪用，要求不高可以继续选择这款。途径是二手市场，价格 6K 左右可以收到在保或者状态比较新的。
 
-### 4. 垃圾桶
+### 5. 16 寸 MacBook Pro
+
+MacBook Pro 2015 款的升级版，除了 touchbar 鸡肋和接口不方便之外，散热和噪音问题依旧没有解决。
+
+### 6. 垃圾桶
 
 通过收一台垃圾桶，自行升级硬件，具体请参考[「花了 10k 收获了一台 40k+ 的顶配垃圾桶」](https://mp.weixin.qq.com/s/zZ9cEVL4GTRzta-veYAz4Q)
 
@@ -45,13 +50,13 @@ iMac 一体化的更不考虑了。
 
 Q: 黑苹果花时间吗，以及值得花时间吗？
 
-A: 驱动已经已经不花时间了，关于值得不，白苹果你花时间也无法改变 ╮(╯▽╰)╭
+A: 驱动已经已经不花时间了。需要花时间的部分是，了解基础的 PC 的硬件知识（因为对于大部分苹果用户来说，问题都来自于不了解硬件）。关于值得不，白苹果你花时间也无法改变 ╮(╯▽╰)╭
 
 Q: 现在有多稳定？
 
 A: 稳定到可以在 Developer Beta 出来的第二天早上就跟着更新了（现在99%不会有问题，有也只是加个启动参数的事，insanelymac 论坛上都已贴好了）
 
-Q: 为什么推特上那么多人说不稳定？
+Q: 为什么 Twitter 上那么多人说不稳定？
 
 A: 硬件买错了，硬件不会装，看中文资料，路由器背锅！
 
@@ -67,6 +72,7 @@ A: iMac Pro 2019 没有 T2 芯片，够你安全用 10 年了。
 
 - 用最简单的一体式水冷带 9700K 无压力，再无噪音和发热
 - WI-FI 完美无故障
+- UEFI BIOS 中超频/睿频配置随意切换
 - 稳定性更好。你没有听错，因为一堆问题都是因为笔记本/Mac Mini 性能太差 ╮(╯▽╰)╭
 - Catalina 已经原生支持了 RX 5700XT
 - 再花 400 买一块 SSD，双系统工作娱乐两不误，Mac 下 Parallels Desktop 还可以使用这块盘上的 Windows 系统
@@ -80,8 +86,8 @@ A: iMac Pro 2019 没有 T2 芯片，够你安全用 10 年了。
 
 简单说一下流程
 
-1. 先去 tonymacx86 的 [Buyer's Guide](https://www.tonymacx86.com/buyersguide/building-a-customac-hackintosh-the-ultimate-buyers-guide/) 挑合适的硬件
-2. 去 tonymacx86/insanelymac 的经典 build 教程中找和自己主板一样的，学习安装的流程，蓝牙型号参考[这里](https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/)
+1. 先去 tonymacx86 的 [Buyer's Guide](https://www.tonymacx86.com/buyersguide/building-a-customac-hackintosh-the-ultimate-buyers-guide/) 挑合适的硬件，或者对着我后面给的列表的买
+2. 去 tonymacx86/insanelymac 的经典 build 教程中找和自己主板一样的，学习安装的流程
 
 ### 我选择的完美硬件
 
@@ -93,15 +99,16 @@ A: iMac Pro 2019 没有 T2 芯片，够你安全用 10 年了。
 硬件的建议
 
 - 除了主板、WI-FI/蓝牙模块不变，其他的按自己需求换到兼容硬件就好
-- 如果要换主板，不推荐选 ASRock 的
+- 主板推荐 Asus/Gigabyte，不推荐 ASRock 的
 - 显卡推荐尽量用蓝宝石的
-- 如果想要 Windows 装双系统用，推荐额外买一块 SATA3 860 EVO
+- 如果想要 Windows 装双系统用，推荐额外买一块 860 EVO
 - SSD 不要选 970 EVO Plus 和 三星 PM981
 - 显示器请用 DP 接口
 
-我参考的[教程](https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/)（非常推荐看这篇，因为是 Vanilla Install 而且有很多额外的知识）
+推荐教程
 
-我组好的机器 CPU 跑分在[Geekbench Mac](https://browser.geekbench.com/mac-benchmarks) 里面排第一，成本只要 6K+。
+- 前面推荐硬件对应的[教程](https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/)
+- 通用的[Vanilla Install安装教程](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/)，即使你用了前面文章里面的配置，也非常推荐看这篇，因为是 Vanilla Install 而且有很多额外的知识）
 
 ### 外接键盘和触控板
 
