@@ -62,7 +62,7 @@ A: 硬件买错了，硬件不会装，看中文资料，路由器背锅！
 
 Q: 听说苹果有个 T2 安全芯片？
 
-A: iMac Pro 2019 没有 T2 芯片，够你安全用 10 年了。
+A: iMac 2019 没有 T2 芯片，够你安全用 10 年了。
 
 ### 缺点
 
@@ -76,7 +76,7 @@ A: iMac Pro 2019 没有 T2 芯片，够你安全用 10 年了。
 - 稳定性更好。你没有听错，因为一堆问题都是因为笔记本/Mac Mini 性能太差 ╮(╯▽╰)╭
 - Catalina 已经原生支持了 RX 5700XT
 - 再花 400 买一块 SSD，双系统工作娱乐两不误，Mac 下 Parallels Desktop 还可以使用这块盘上的 Windows 系统
-- 成本只要 1/4 到 1/6 就可以组装一台 ITX 超小机箱的性能怪兽
+- 成本只要 1/4 到 1/6 就可以组装一台超小机箱的性能怪兽
 
 ### 此外的一些建议和注意点
 
@@ -104,8 +104,11 @@ A: iMac Pro 2019 没有 T2 芯片，够你安全用 10 年了。
 - 如果想要 Windows 装双系统用，推荐额外买一块 860 EVO
 - SSD 不要选 970 EVO Plus 和 三星 PM981
 - 显示器请用 DP 接口
+- mATX 硬件的价格会比 ITX 便宜不少，如果不追求特别小的机箱，mATX 可以省不少钱。
 
 推荐教程
+
+我组好的机器在[Geekbench Mac](https://browser.geekbench.com/mac-benchmarks) 中单核跑分排第一，多核进前五，成本只要 6K+。
 
 - 前面推荐硬件对应的[教程](https://www.tonymacx86.com/threads/the-everything-works-asus-z390-i-gaming-i7-8700k-sapphire-rx580-pulse-build.272572/)
 - 通用的[Vanilla Install安装教程](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/)，即使你用了前面文章里面的配置，也非常推荐看这篇，因为是 Vanilla Install 而且有很多额外的知识）
