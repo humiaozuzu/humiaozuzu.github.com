@@ -125,7 +125,9 @@ A: 不用，原因如下。
 
 #### 10 代 Intel CPU
 
-- [i5-10500+mATX](https://pasotan.com/s/J2nneY) 必须使用 OpenCore，且需要 10.15.5 版本
+必须使用 OpenCore，且需要 10.15.5 版本
+
+- [i5-10500+mATX](https://pasotan.com/s/J2nneY) 记得选同型号的无 WI-FI 的主板，因为网站未收录无 WI-FI 的主板
 - 以上硬件对应的[教程](https://www.tonymacx86.com/threads/micro-atx-build-msi-mag-b460m-mortar-i5-10500-rx470-open-core-catalina-10-15-5.299709/)
 
 #### 推荐的通用教程
