@@ -11,7 +11,7 @@ category: financial independence
 
 答案是 15.5 年，计算过程可以[点这](https://www.calculator.net/investment-calculator.html?ctype=endamount&ctargetamountv=1000000&cstartingprinciplev=500000&cyearsv=15&cinterestratev=15&ccontributeamountv=180000&ciadditionat1=annually&printit=0&x=24&y=24)里查看。
 
-这里并不会用特别严谨的数据和方法计算，因为大家的投资方法，新增资金是否在合适时机入场，以及大家每一年都在成长（收入会更高），这些都会影响最终的结果。但是，最坏的结果就是，40 岁时可以获得自己想要的钱（先暂时忽略掉通胀）。
+这里并不会用特别严谨的数据和方法计算，因为大家的投资方法，新增资金是否在合适时机入场，以及大家每一年都在成长（收入会更高），这些都会影响最终的结果。但是，最坏的结果就是，40 岁时可以获得自己想要的钱（先暂时忽略掉通胀/买房/小孩教育）。
 
 在这个公式中，财务自由需要的钱是固定的，大家想要的是让时间变短，所以最重要的策略是，提高另外 2 个因子。后面我们会详细解释公式中每一项的含义以及提高重要因子的策略。
 
@@ -52,7 +52,7 @@ category: financial independence
 
 #### 2. 提高年化
 
-首先，我们需要建立投资体系，学会资产配置，此处推荐 [E大](https://www.evernote.com/l/ACati6T7aBlGoreJ0WxpUBkV3UNRTPQbEZA)。
+首先，我们需要建立投资体系，学会资产配置来获得长线稳健收益，此处推荐 [E大](https://www.evernote.com/l/ACati6T7aBlGoreJ0WxpUBkV3UNRTPQbEZA)。
 
 其次，注意套利的机会，入行后会发现一些适合几十万的小资金超高年化的机会。
 
@@ -60,7 +60,7 @@ category: financial independence
 
 其他的一些注意点
 
-- 不要投资股票，因为95%+的基金经理都跑不赢指数，你自己有什么信心能比他们更会选股和择时呢？
+- 不要大额投资股票，因为95%+的基金经理都跑不赢指数，你自己有什么信心能比他们更会选股和择时呢？
 - 但是又不能不投股票，因为需要出手买 ETF 和主动基金的次数太少，大部分时间没有交易会很无聊，可以放一点小钱作为娱乐盘满足手痒的乐趣。
 - 不要无脑定投，你需要先了解下定投适合什么样的市场。
 - 不要把眼光局限在某一个固定的国家的市场，特别是没什么增长的国家。
