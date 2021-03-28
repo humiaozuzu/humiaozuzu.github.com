@@ -1,5 +1,5 @@
 ---
-title: 使用 Filter + Google Script 全自动处理 Gmail 邮件
+title: 使用 Gmail Filter + Google Script 全自动处理 Gmail 邮件
 category: personal productivity system
 ---
 
