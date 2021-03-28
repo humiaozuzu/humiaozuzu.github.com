@@ -48,13 +48,13 @@ category: personal productivity system
 
 更多系统的技巧，可以自行搜索「Gmail Filter Tricks」。当然默认的 Filter 还是远远不够的，我还需要更多功能，比如
 - 对我来说，所有有 Label 的邮件我都不需要额外的处理了，我都看过推送通知了，请帮我过 n 天后自动 Archive（Gmail Filter 只能立刻 Archive 所以不够用），即使是 RSS 这个分类，我也希望一周内帮我自动 archive 掉，因为没读就是没时间，没必要看了，不然堆积了毫无意义。
-- 把那些讨厌的 Terms & Conditions 更新邮件给我自动 archive 掉，我对你的条款更新毫无兴趣。这个用 Filter 可以实现简单的，但是很可能误杀，如果想做更复杂一点的匹配，麻烦而且维护困难。
+- 把那些讨厌的 Terms & Conditions 更新邮件给我自动 archive 掉，我对你的条款更新毫无兴趣。这个用 Gmail Filter 可以实现简单的筛选，但是很可能误杀，如果想做更复杂一点的匹配，会麻烦而且维护困难。
 
 这里就需要 Google Script 来帮忙完成，需要一些编程基础，下面以按天数自动 archive 为例，给一下我的代码
 
 ## 邮件按天数自动 Archive
 
-请参考这个[教程](https://medium.com/@fw3d/auto-archive-emails-in-gmail-after-2-days-1ebf0e076b1c)，创建 Script，然后设置定时执行。
+请参考这个[教程](https://medium.com/@fw3d/auto-archive-emails-in-gmail-after-2-days-1ebf0e076b1c)，创建 Script，贴入下面的代码，按需更改，然后设置定时执行。
 
 我对于不重要的分类是 1 天就帮我 archive 掉，稍微重要的 2 天，阅读的留一周。如果你觉得某个分类很重要，想要只 archive 已读的邮件，也可以修改下面的代码实现。官方的文档可以[参考这里](https://developers.google.com/apps-script/reference/gmail)，比如检查是否已读的 API [在这里](https://developers.google.com/apps-script/reference/gmail/gmail-thread#isUnread())。
 
