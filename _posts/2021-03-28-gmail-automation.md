@@ -56,7 +56,7 @@ category: personal productivity system
 
 请参考这个[教程](https://medium.com/@fw3d/auto-archive-emails-in-gmail-after-2-days-1ebf0e076b1c)，创建 Script，贴入下面的代码，按需更改，然后设置定时执行。
 
-我对于不重要的分类是 1 天就帮我 archive 掉，稍微重要的 2 天，阅读的留一周。如果你觉得某个分类很重要，想要只 archive 已读的邮件，也可以修改下面的代码实现。官方的文档可以[参考这里](https://developers.google.com/apps-script/reference/gmail)，比如检查是否已读的 API [在这里](https://developers.google.com/apps-script/reference/gmail/gmail-thread#isUnread())。
+我对于不重要的分类是 1 天就帮我 archive 掉，稍微重要的 2 天，阅读的留一周。如果你觉得某个分类很重要，想要只 archive 已读的邮件，也可以扩展下面的代码实现，或者你觉得某个分类没有存储的必要，也可以吧 archive 变成 delete。官方的文档可以[参考这里](https://developers.google.com/apps-script/reference/gmail)，比如检查是否已读的 API [在这里](https://developers.google.com/apps-script/reference/gmail/gmail-thread#isUnread())。
 
 
 ```javascript
