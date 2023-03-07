@@ -3,7 +3,7 @@ title: 使用联想法做英语笔记
 category: personal productivity system
 ---
 
-今天，在看斯科特杨的「如何高效学习」总结学习方法时，突然想到了自己大一时简单总结的一篇高中学到的英语联想笔记法。当时[彭老师](/2011/11/11/teacher-peng-remarks)和我们说，她教的学生的笔记毕业时有人花钱收她的学生都不会卖，那时的我不怎么信，现在不仅仅是相信，更多的是感激。这套联想方法为我未来的学习带来了不知道多少便利。
+今天，在看斯科特杨的「如何高效学习」总结学习方法时，突然想到了自己大一时简单总结的一篇高中学到的英语联想笔记法。当时[彭老师](/2011/11/11/teacher-peng-remarks)和我们说，她教的学生的笔记毕业时有人花钱收她的学生都不会卖，那时的我不怎么信，现在不仅仅是相信，更多的是感激，因为这套联想方法为我未来的学习带来了不知道多少便利。
 
 ---------
 
@@ -13,7 +13,9 @@ category: personal productivity system
 
 人最讨厌抽象的东西，我也不例外，所以讲方法的时候会用一个今天做的英语笔记作为讲解。
 
-单纯的的记忆词汇是没有意义的，是低效劳动，把词汇记忆变得有意义才是正道。比如，记忆一个动词就要在笔记中记下他的有意义宾语，记下与他搭配的短语，名词的话就要记下与之搭配的动词，和形容词（包括现在分词，过去分词）。例如 replace 这个动词的笔记：
+单纯的的记忆词汇是没有意义的，是低效劳动，把词汇记忆变得有意义才是正道。比如，记忆一个动词就要在笔记中记下他的有意义宾语，记下与他搭配的短语，名词的话就要记下与之搭配的动词，和形容词（包括现在分词，过去分词）。
+
+例如 replace 这个动词的笔记：
 
 Replace-replaced-replaced（记下三态，对于特殊的，要联想有相同特征的，比如 think-thought-thought 与 seek-sought-sought 就是可以互相联想的）
 
@@ -31,7 +33,7 @@ A. put…back to…/restore（这个是用近义或同义词进行解释法，�
 
 replace the book on the shelf
 
-replace the receiver (hang up (the phone)) 这里 vi.&vt 都用到了 phone。其实还有很多个，关于电话的，然后还联想到了 hold on（不要挂电话），然后又想到了 wanted，e.g.：电话里有人找你 You are wanted on the phone(on/over the phone/radio/Internet)；通缉犯 a wanted man；厨师聘用 Cooks wanted.
+replace the receiver (hang up (the phone)) 这里 vi.&vt 都用到了 phone。其实还有很多个，关于电话的，然后还联想到了 hold on（不要挂电话），然后又想到了 wanted，e.g.：电话里有人找你 You are wanted on the phone(on/over the phone/radio/Internet)；通缉犯 a wanted man；厨师聘用 Cooks wanted.（这里的联想甚至超过了这个单词本身，利用各种机会去复习其他单词是非常好的）
 
 B. ![replace](/assets/images/replace-phrase-detail.jpg)
 
